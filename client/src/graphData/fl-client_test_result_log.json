@@ -1,0 +1,419 @@
+[{
+  "_id": {
+    "$oid": "64647e2e14cdee67d6b99516"
+  },
+  "fl_task_id": "6461cc927a7be87a213fb479",
+  "client_mac": "02:42:ac:19:00:03",
+  "round": 1,
+  "test_loss": 1.7319902181625366,
+  "test_acc": 0.9024999737739563,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:08:46.033711)"
+},{
+  "_id": {
+    "$oid": "64647e5814cdee67d6b99518"
+  },
+  "fl_task_id": "6461cc927a7be87a213fb479",
+  "client_mac": "02:42:ac:19:00:03",
+  "round": 2,
+  "test_loss": 1.5523476600646973,
+  "test_acc": 0.9081000089645386,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:08:46.033711)"
+},{
+  "_id": {
+    "$oid": "64647e7b14cdee67d6b9951a"
+  },
+  "fl_task_id": "6461cc927a7be87a213fb479",
+  "client_mac": "02:42:ac:19:00:03",
+  "round": 3,
+  "test_loss": 1.5966966152191162,
+  "test_acc": 0.9075000286102295,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:08:46.033711)"
+},{
+  "_id": {
+    "$oid": "64647ea014cdee67d6b9951c"
+  },
+  "fl_task_id": "6461cc927a7be87a213fb479",
+  "client_mac": "02:42:ac:19:00:03",
+  "round": 4,
+  "test_loss": 1.810654640197754,
+  "test_acc": 0.9064000248908997,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:08:46.033711)"
+},{
+  "_id": {
+    "$oid": "64647ec314cdee67d6b9951e"
+  },
+  "fl_task_id": "6461cc927a7be87a213fb479",
+  "client_mac": "02:42:ac:19:00:03",
+  "round": 5,
+  "test_loss": 2.0973334312438965,
+  "test_acc": 0.9017000198364258,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:08:46.033711)"
+},{
+  "_id": {
+    "$oid": "6464889614cdee67d6b99521"
+  },
+  "fl_task_id": "646310a9816b353241b49755",
+  "client_mac": "02:42:ac:1a:00:02",
+  "round": 1,
+  "test_loss": 1.6101584434509277,
+  "test_acc": 0.9059000015258789,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:53:20.169253)"
+},{
+  "_id": {
+    "$oid": "646488b614cdee67d6b99523"
+  },
+  "fl_task_id": "646310a9816b353241b49755",
+  "client_mac": "02:42:ac:1a:00:02",
+  "round": 2,
+  "test_loss": 1.51157546043396,
+  "test_acc": 0.911300003528595,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:53:20.169253)"
+},{
+  "_id": {
+    "$oid": "646488d914cdee67d6b99525"
+  },
+  "fl_task_id": "646310a9816b353241b49755",
+  "client_mac": "02:42:ac:1a:00:02",
+  "round": 3,
+  "test_loss": 1.610264539718628,
+  "test_acc": 0.9063000082969666,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:53:20.169253)"
+},{
+  "_id": {
+    "$oid": "646488fd14cdee67d6b99527"
+  },
+  "fl_task_id": "646310a9816b353241b49755",
+  "client_mac": "02:42:ac:1a:00:02",
+  "round": 4,
+  "test_loss": 1.9333088397979736,
+  "test_acc": 0.9034000039100647,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:53:20.169253)"
+},{
+  "_id": {
+    "$oid": "6464892314cdee67d6b99529"
+  },
+  "fl_task_id": "646310a9816b353241b49755",
+  "client_mac": "02:42:ac:1a:00:02",
+  "round": 5,
+  "test_loss": 2.0791420936584473,
+  "test_acc": 0.901199996471405,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 07:53:20.169253)"
+},{
+  "_id": {
+    "$oid": "64648cc314cdee67d6b99534"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:ac:1b:00:02",
+  "round": 1,
+  "test_loss": 2.0136334896087646,
+  "test_acc": 0.8999000191688538,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 08:11:21.329442)"
+},{
+  "_id": {
+    "$oid": "64648ce214cdee67d6b99536"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:ac:1b:00:02",
+  "round": 2,
+  "test_loss": 1.840970516204834,
+  "test_acc": 0.90420001745224,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-17 08:11:21.329442)"
+},{
+  "_id": {
+    "$oid": "6465cdfc14cdee67d6b9953e"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:ac:1e:00:03",
+  "round": 1,
+  "test_loss": 1.939138650894165,
+  "test_acc": 0.8998000025749207,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 07:01:10.046740)"
+},{
+  "_id": {
+    "$oid": "6465ce1c14cdee67d6b99540"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:ac:1e:00:03",
+  "round": 2,
+  "test_loss": 1.7178747653961182,
+  "test_acc": 0.9050999879837036,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 07:01:10.046740)"
+},{
+  "_id": {
+    "$oid": "6466076214cdee67d6b99549"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:70:02",
+  "round": 1,
+  "test_loss": 1.9294196367263794,
+  "test_acc": 0.9003000259399414,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 11:08:02.503435)"
+},{
+  "_id": {
+    "$oid": "6466077e14cdee67d6b9954b"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:70:02",
+  "round": 2,
+  "test_loss": 1.7563974857330322,
+  "test_acc": 0.9025999903678894,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 11:08:02.503435)"
+},{
+  "_id": {
+    "$oid": "6466085414cdee67d6b99550"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:70:02",
+  "round": 1,
+  "test_loss": 2.1469433307647705,
+  "test_acc": 0.8999999761581421,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 11:12:57.364095)"
+},{
+  "_id": {
+    "$oid": "6466086f14cdee67d6b99552"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:70:02",
+  "round": 2,
+  "test_loss": 1.7669591903686523,
+  "test_acc": 0.9020000100135803,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 11:12:57.364095)"
+},{
+  "_id": {
+    "$oid": "64660da814cdee67d6b99555"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:80:03",
+  "round": 1,
+  "test_loss": 2.022726058959961,
+  "test_acc": 0.8999000191688538,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 11:34:45.358737)"
+},{
+  "_id": {
+    "$oid": "64660dbf14cdee67d6b99557"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:80:03",
+  "round": 2,
+  "test_loss": 1.7592370510101318,
+  "test_acc": 0.9034000039100647,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 11:34:45.358737)"
+},{
+  "_id": {
+    "$oid": "6466159314cdee67d6b9955c"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:80:03",
+  "round": 1,
+  "test_loss": 2.0063769817352295,
+  "test_acc": 0.8996000289916992,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 12:09:28.141329)"
+},{
+  "_id": {
+    "$oid": "646615af14cdee67d6b9955e"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:80:03",
+  "round": 2,
+  "test_loss": 1.7800707817077637,
+  "test_acc": 0.9043999910354614,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-18 12:09:28.141329)"
+},{
+  "_id": {
+    "$oid": "6466ff5a14cdee67d6b99561"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:a0:03",
+  "round": 1,
+  "test_loss": 2.033400297164917,
+  "test_acc": 0.9003999829292297,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 04:45:46.884343)"
+},{
+  "_id": {
+    "$oid": "6466ff7714cdee67d6b99563"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:a0:03",
+  "round": 2,
+  "test_loss": 1.8277136087417603,
+  "test_acc": 0.9027000069618225,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 04:45:46.884343)"
+},{
+  "_id": {
+    "$oid": "6467034314cdee67d6b99568"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:a0:03",
+  "round": 1,
+  "test_loss": 2.0321900844573975,
+  "test_acc": 0.8988999724388123,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 05:03:34.587976)"
+},{
+  "_id": {
+    "$oid": "6467035f14cdee67d6b9956a"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:a0:03",
+  "round": 2,
+  "test_loss": 1.7536742687225342,
+  "test_acc": 0.9031000137329102,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 05:03:34.587976)"
+},{
+  "_id": {
+    "$oid": "646708e114cdee67d6b9956d"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:a0:03",
+  "round": 1,
+  "test_loss": 1.9567595720291138,
+  "test_acc": 0.9000999927520752,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 05:27:29.178777)"
+},{
+  "_id": {
+    "$oid": "646708fe14cdee67d6b9956f"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:a0:03",
+  "round": 2,
+  "test_loss": 1.7741882801055908,
+  "test_acc": 0.9028000235557556,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 05:27:29.178777)"
+},{
+  "_id": {
+    "$oid": "64671c0fd12506f3a6c511e3"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:b0:03",
+  "round": 1,
+  "test_loss": 1.9115697145462036,
+  "test_acc": 0.8996999859809875,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 06:48:22.795733)"
+},{
+  "_id": {
+    "$oid": "64671c27d12506f3a6c511e5"
+  },
+  "fl_task_id": "64648b55816b353241b49779",
+  "client_mac": "02:42:c0:a8:b0:03",
+  "round": 2,
+  "test_loss": 1.7565546035766602,
+  "test_acc": 0.9031999707221985,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 06:48:22.795733)"
+},{
+  "_id": {
+    "$oid": "64671db9d12506f3a6c511ea"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 1,
+  "test_loss": 1.978011965751648,
+  "test_acc": 0.8984000086784363,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 06:55:22.974978)"
+},{
+  "_id": {
+    "$oid": "64671dd6d12506f3a6c511ec"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 2,
+  "test_loss": 1.8569854497909546,
+  "test_acc": 0.8991000056266785,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 06:55:22.974978)"
+},{
+  "_id": {
+    "$oid": "64672c3dd12506f3a6c511f1"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 1,
+  "test_loss": 2.0296943187713623,
+  "test_acc": 0.8999999761581421,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 07:58:23.730879)"
+},{
+  "_id": {
+    "$oid": "64672c5ad12506f3a6c511f3"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 2,
+  "test_loss": 1.768051028251648,
+  "test_acc": 0.9017000198364258,
+  "next_gl_model_v": 1,
+  "wandb_name": "client-v1(2023-05-19 07:58:23.730879)"
+},{
+  "_id": {
+    "$oid": "64672e8f309ed1fb4fde9c50"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 1,
+  "test_loss": 1.6902419328689575,
+  "test_acc": 0.902999997138977,
+  "next_gl_model_v": 2,
+  "wandb_name": "client-v2(2023-05-19 08:08:20.739699)"
+},{
+  "_id": {
+    "$oid": "64672eac309ed1fb4fde9c53"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 2,
+  "test_loss": 1.7364965677261353,
+  "test_acc": 0.9014999866485596,
+  "next_gl_model_v": 2,
+  "wandb_name": "client-v2(2023-05-19 08:08:20.739699)"
+},{
+  "_id": {
+    "$oid": "64672fcc309ed1fb4fde9c6b"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 1,
+  "test_loss": 1.559035301208496,
+  "test_acc": 0.9063000082969666,
+  "next_gl_model_v": 3,
+  "wandb_name": "client-v3(2023-05-19 08:13:19.218442)"
+},{
+  "_id": {
+    "$oid": "64672ff7309ed1fb4fde9c6e"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "client_mac": "02:42:c0:a8:c0:02",
+  "round": 2,
+  "test_loss": 1.588524580001831,
+  "test_acc": 0.9052000045776367,
+  "next_gl_model_v": 3,
+  "wandb_name": "client-v3(2023-05-19 08:13:19.218442)"
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "64672e88309ed1fb4fde9c4f"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "round": 1,
+  "gl_loss": 135.8187713623047,
+  "gl_acc": 0.8691999912261963,
+  "run_time_by_round": 23.1704044342041,
+  "next_gl_model_v": 2
+},{
+  "_id": {
+    "$oid": "64672ea2309ed1fb4fde9c52"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "round": 2,
+  "gl_loss": 197.07415771484375,
+  "gl_acc": 0.8687999844551086,
+  "run_time_by_round": 18.882137060165405,
+  "next_gl_model_v": 2
+},{
+  "_id": {
+    "$oid": "64672fc0309ed1fb4fde9c6a"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "round": 1,
+  "gl_loss": 278.7672119140625,
+  "gl_acc": 0.8582000136375427,
+  "run_time_by_round": 44.54017758369446,
+  "next_gl_model_v": 3
+},{
+  "_id": {
+    "$oid": "64672fe2309ed1fb4fde9c6d"
+  },
+  "fl_task_id": "64671c9abe9b665abfc2d1da",
+  "round": 2,
+  "gl_loss": 183.23959350585938,
+  "gl_acc": 0.883400022983551,
+  "run_time_by_round": 22.324087142944336,
+  "next_gl_model_v": 3
+}]

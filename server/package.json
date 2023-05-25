@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.21.1",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "eslint-config-prettier": "^8.8.0",
+    "esm": "^3.2.25",
+    "got": "^12.6.0",
+    "joi": "^17.9.1",
+    "jsonwebtoken": "^9.0.0",
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.4.0",
+    "koa-router": "^12.0.0",
+    "koa-static": "^5.0.0",
+    "mongodb": "^5.2.0",
+    "mongoose": "^6.7.3",
+    "sanitize-html": "^2.10.0",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node -r esm src",
+    "start:dev": "nodemon --watch src/ esm src/index.js"
+  }
+}
